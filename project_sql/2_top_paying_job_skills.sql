@@ -47,4 +47,4 @@ ON
     skills_job_dim.skill_id = skills_dim.skill_id
 -- Sort by highest to lowest wages
 ORDER BY
-    salary_year_avg DESC
+    salary_year_avg DESC;

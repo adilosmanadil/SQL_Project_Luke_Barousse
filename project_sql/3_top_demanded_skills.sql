@@ -31,4 +31,4 @@ GROUP BY
 ORDER BY
     demand_count DESC
 -- Limit to 5 as the execution time is too long
-LIMIT 5
+LIMIT 5;

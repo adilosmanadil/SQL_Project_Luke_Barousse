@@ -31,4 +31,4 @@ GROUP BY
 ORDER BY 
     avg_salary DESC
 -- Limit to 5 as the execution time is too long
-LIMIT 25
+LIMIT 25;
